@@ -1,6 +1,6 @@
 # Backend
 
-Army Help Center Backend
+ Help Center Backend
 
 ## Installation
 
