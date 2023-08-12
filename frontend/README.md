@@ -1,6 +1,6 @@
 # Frontend
 
-Army Central Service Frontend
+ Central Service Frontend
 
 ## Installation
 
